@@ -1,4 +1,4 @@
-# Oasis-Infobyte
+# Oasis-Infobyte Internship
 
 During this internship at Oasis Infobyte, I had the opportunity to work on two engaging projects, Number Guessing Game and Online Examination System. These projects involved Java programming language.
 
