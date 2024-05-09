@@ -1,0 +1,3 @@
+# Online Examination System
+
+The Online Examination System project, developed during my internship at Oasis Infobyte company, is a comprehensive Java application designed for conducting exams online. Leveraging Java Swing for the user interface, the system allows students to take exams remotely. With features such as timer-based exams, random question generation, and result tracking, the system offers a seamless and efficient examination experience. This project showcases my expertise in Java programming and GUI development using Java Swing.

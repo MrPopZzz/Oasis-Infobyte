@@ -1,0 +1,3 @@
+# Number Guessing Game
+
+The Number Guessing Game project is a fun and interactive Java application developed during my internship at Oasis Infobyte company. Utilizing Java's core features, the game prompts players to guess a randomly generated number within a specified range (100). The game provides an enjoyable experience for players of all ages. It demonstrates my proficiency in Java programming and my ability to create engaging applications.
